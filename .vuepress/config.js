@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "caodonghui426.github.io",
+  "title": "LittlePaddy",
   "description": "personal homepage",
   "dest": "public",
   "head": [
@@ -93,7 +93,7 @@ module.exports = {
     "author": "LittlePaddy",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2024"
   },
   "markdown": {
     "lineNumbers": true
