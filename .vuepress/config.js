@@ -47,7 +47,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/caodonghui426",
             "icon": "reco-github"
           }
         ]
@@ -92,7 +92,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "LittlePaddy",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    "record": "LittlePaddy",
     "startYear": "2024"
   },
   "markdown": {
